@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+🌱 Current Interest : Java Script, Java. 
+
+🔭 Currently working on Open-source Contributon 2020.
 
 <!--
 **sowon-dev/sowon-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sowon-dev&hide=stars&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowon-dev&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
