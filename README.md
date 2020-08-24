@@ -2,7 +2,7 @@
 
 🌱 Current Interest : Java Script, Java. 
 
-🔭 Currently working on Open-source Contributon 2020.
+🔭 Currently working on Open-source Contributon 2020, [SAMSUNG Open source SOS Masters](https://opensource.samsung.com/community/master/masterList)
 
 ✈️ Favorite Quote : Life begins at the end of your comfort zone
 
