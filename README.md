@@ -1,6 +1,6 @@
 <div align=center>
 
-🌱 Current Interest : Java Script, Java. 
+🌱 Current Interest : Java Script, Jsp. 
 
 🔭 Currently working on Open-source Contributon 2020, [SAMSUNG Open source SOS Masters](https://opensource.samsung.com/community/master/masterList)
 
