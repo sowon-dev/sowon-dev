@@ -1,6 +1,8 @@
 <div align=center>
 
-🌱 Current Interest : Java Script, Jsp. 
+## Hi there 👋
+
+🌱 Current Interest : JavaScript, Jsp. 
 
 🔭 Currently working on Open-source Contributon 2020, [SAMSUNG SOS Masters](https://opensource.samsung.com/community/master/masterList) Walker level
 
