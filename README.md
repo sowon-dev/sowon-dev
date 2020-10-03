@@ -4,9 +4,9 @@
 
 🌱 Current Interest : JavaScript, Jsp. 
 
-✈️ Favorite Quote : Life begins at the end of your comfort zone
+🔭 Currently working on[SAMSUNG SOS Masters](https://opensource.samsung.com/community/master/masterList) Walker level
 
-🔭 Currently working on Open-source Contributon 2020, [SAMSUNG SOS Masters](https://opensource.samsung.com/community/master/masterList) Walker level
+✈️ Favorite Quote : Life begins at the end of your comfort zone
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sowon-dev&hide=stars&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
