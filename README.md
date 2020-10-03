@@ -4,7 +4,7 @@
 
 🌱 Current Interest : JavaScript, Jsp. 
 
-🔭 Currently working on[SAMSUNG SOS Masters](https://opensource.samsung.com/community/master/masterList) Walker level
+🔭 Currently working on [SAMSUNG SOS Masters](https://opensource.samsung.com/community/master/masterList) Walker level
 
 ✈️ Favorite Quote : Life begins at the end of your comfort zone
 
