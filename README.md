@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-🌱 Current Interest : JavaScript, Jsp. 
+🌱 Current Interest : JavaScript, Jsp, Spring
 
 🔭 Currently working on [SAMSUNG SOS Masters](https://opensource.samsung.com/community/master/masterList) Walker level
 
