@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=소원을말해봐&animation=fadeIn%20render&fontSize=50&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=250&section=header&text=소원을_말해봐🌠&animation=blink&fontSize=50&fontAlign=75&fontAlignY=40)
   
 ## 👋 &nbsp;열정가득한 개발자 Sowon 입니다 ☺️
 - 조직·프로젝트의 목표가 무엇인지 `정확히 인지`하며 목표를 향해 돌진합니다.
