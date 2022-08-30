@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=250&section=header&text=소원을_말해봐🌠&animation=blink&fontSize=50&fontAlign=75&fontAlignY=40)
   
-## 👋 &nbsp;열정가득한 개발자 Sowon 입니다 ☺️
+## 👋 &nbsp;열정가득한 개발자 김소원입니다 ☺️
 - 조직·프로젝트의 목표가 무엇인지 `정확히 인지`하며 목표를 향해 돌진합니다.
 - 2번의 삽질은 없다. 똑같은 문제로 헤매지 않도록 기록을 통해 경험 가득한 저만의 도서관을 만들고 있습니다. →  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sowon-dev.github.io/)](https://sowon-dev.github.io/)
 - 🌱 Current Interest : Spring Framework, React<br/>
